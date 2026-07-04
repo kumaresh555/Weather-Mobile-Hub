@@ -34,7 +34,7 @@ The weather details are displayed inside a modern card layout with a simple and 
 
 ## 📸 Screenshot
 
-![Weather Hub](weatherappimage.png)
+![Weather Hub](weatherappimage.jpeg)
 
 ## ▶️ Installation
 
